@@ -16,10 +16,10 @@ Upon navigating to the website, our client will see our basic opening and title 
 
 I have created a page that is easy to follow and allows the user to filter through the sightings in our data set using search bars. One drawback of our search bar is trying to validate the sightings that occurred, which can be outlined more thoroughly in the data. Being aware of how many people were at the siting would be a helpful element to validating claims. Having access to more relevant data would make the contents of the website more robust, enabling users to learn more. My recommendations for improving this website are as follows: 
 
-Markup : * Bullet list
-  * Nested bullet "Include data that communicates the number of people at each site"
-•	Add another filter to find the sightings by length
-•	Have a site in constant moving state that would do the following: 
-o	Update our data in real time
-o	Add new sightings to our page as they arise
+
+  * Include data that communicates the number of people at each site
+  * Add another filter to find the sightings by length
+  * Have a site in constant moving state that would do the following: 
+      * Update our data in real time
+      * Add new sightings to our page as they arise
 
